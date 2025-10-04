@@ -1,4 +1,4 @@
-### Modelo de Repositório para Práticas Extensionistas IV  
+Repositório para Práticas Extensionistas IV  
 
 # Estudaí  
 
