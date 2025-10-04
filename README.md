@@ -3,7 +3,8 @@
 # Estudaí  
 
 ## Autores  
-[Nome dos autores]  
+
+Ian Pablo dos Santos e Wagner de Freitas Filho
 
 ## Introdução  
 O presente trabalho apresenta o processo de concepção e modelagem do aplicativo **“Estudaí”**, desenvolvido no contexto da disciplina de **Prática Extensionista IV**. O projeto tem como proposta a criação de uma solução móvel multiplataforma voltada a auxiliar estudantes na **organização de suas atividades acadêmicas**, como provas, trabalhos e horários de aula.  
