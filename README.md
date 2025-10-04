@@ -2,7 +2,7 @@ Modelo de Repositório para Práticas Extensionistas IV
 Estudaí
 Autores
 
-Ian Pablo dos Santos
+Ian Pablo dos Santos e Wagner de Freitas Filho
 
 Introdução
 
